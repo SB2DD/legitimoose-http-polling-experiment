@@ -1,0 +1,1 @@
+$data modify storage code:tmp send.content set value "```ansi\n[31m$(name) left the game[0m```"
