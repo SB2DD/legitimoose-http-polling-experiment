@@ -6,7 +6,7 @@ This proof of concept also includes a simple discord chat integration, just for 
 
 This project can be seen as a sort of alternative to websockets. This system can therefore be used for almost realtime 2-way communication
 
-## How to use
+## How to use (This was done using Node.js 26 and MC 1.21.10. Other versions may or may not work)
 0. set the discord bot token in the src/env.ts file (should contain `export const botToken = "<token>"`)
 1. do `npm install` to install dependencies
 2. do `npm run dev` to start the dev server
